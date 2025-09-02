@@ -1,0 +1,70 @@
+html{
+    background-color: black;    
+}
+img{
+    border-radius: 100%;
+    margin: auto;
+    display: block;
+    width: 20%;
+    height: 30%;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size:larger;
+    font-style: normal;
+}
+h2{
+    color: yellowgreen;
+    text-align: center;
+    font-size: small;
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: smaller;
+    
+}
+.men{
+    color: white;
+    text-align: center;
+    background-color:hsl(0, 0%, 20%);
+    font-size: small;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 5px;
+    
+}
+.mom{
+    color: white;
+    text-align: center;
+    background-color: hsl(0, 0%, 20%);
+    font-size:small;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 5px;
+    
+}
+.dad{
+    color: white;
+    text-align: center;
+    background-color: hsl(0, 0%, 20%);
+    font-size: small;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+.son{
+    color: white;
+    text-align: center;
+    background-color:hsl(0, 0%, 20%);
+    font-size: small;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.card{
+    background-color: hsl(0, 0%, 12%);
+    padding: 10px;
+}
